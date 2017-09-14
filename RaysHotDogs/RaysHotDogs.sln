@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaysHotDogs.core", "RaysHotDogs.core\RaysHotDogs.core.csproj", "{2145868A-248B-45E4-A573-24EC55FDB769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaysHotDogs", "RaysHotDogs\RaysHotDogs.csproj", "{F558BC60-7CEC-46FD-9F76-2D1127013B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2145868A-248B-45E4-A573-24EC55FDB769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2145868A-248B-45E4-A573-24EC55FDB769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2145868A-248B-45E4-A573-24EC55FDB769}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{2145868A-248B-45E4-A573-24EC55FDB769}.Debug|ARM.Build.0 = Debug|Any CPU
+		{2145868A-248B-45E4-A573-24EC55FDB769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2145868A-248B-45E4-A573-24EC55FDB769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2145868A-248B-45E4-A573-24EC55FDB769}.Release|ARM.ActiveCfg = Release|ARM
+		{2145868A-248B-45E4-A573-24EC55FDB769}.Release|ARM.Build.0 = Release|ARM
+		{F558BC60-7CEC-46FD-9F76-2D1127013B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F558BC60-7CEC-46FD-9F76-2D1127013B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F558BC60-7CEC-46FD-9F76-2D1127013B9F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F558BC60-7CEC-46FD-9F76-2D1127013B9F}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{F558BC60-7CEC-46FD-9F76-2D1127013B9F}.Debug|ARM.Build.0 = Debug|Any CPU
+		{F558BC60-7CEC-46FD-9F76-2D1127013B9F}.Debug|ARM.Deploy.0 = Debug|Any CPU
+		{F558BC60-7CEC-46FD-9F76-2D1127013B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F558BC60-7CEC-46FD-9F76-2D1127013B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F558BC60-7CEC-46FD-9F76-2D1127013B9F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F558BC60-7CEC-46FD-9F76-2D1127013B9F}.Release|ARM.ActiveCfg = Release|Any CPU
+		{F558BC60-7CEC-46FD-9F76-2D1127013B9F}.Release|ARM.Build.0 = Release|Any CPU
+		{F558BC60-7CEC-46FD-9F76-2D1127013B9F}.Release|ARM.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
